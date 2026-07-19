@@ -15,7 +15,7 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Tiradent
   <a href="https://github.com/FagnerB">
     <img src="https://img.shields.io/badge/GitHub-FagnerB-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/fagner-bispo-561b02276">
     <img src="https://img.shields.io/badge/LinkedIn-Fagner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
