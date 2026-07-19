@@ -16,7 +16,7 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Tiradent
     <img src="https://img.shields.io/badge/GitHub-FagnerB-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/fagner-bispo-561b02276">
-    <img src="https://img.shields.io/badge/LinkedIn-fagner--bispo--561b02276-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Fagner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Tiradent
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FagnerB&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FagnerB&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FagnerB&layout=compact&theme=tokyonight" />
 </p>
 
