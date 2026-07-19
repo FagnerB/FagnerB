@@ -12,8 +12,8 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Tiradent
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/FagnerB">
+    <img src="https://img.shields.io/badge/GitHub-FagnerB-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Fagner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
